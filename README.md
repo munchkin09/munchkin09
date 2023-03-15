@@ -7,10 +7,9 @@
 
 - 🔭 I’m currently working on **TOP-SECRET**
 
-- 📫 How to reach me **carlos.ledesma1983@pm.me**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- 📫 **carlos.ledesma1983@pm.me**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
